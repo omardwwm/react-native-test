@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "seresa_tech",
+    "slug": "seresa_tech",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/image/Logo-Seresa-Tech.png",
+    "splash": {
+      "image": "./src/assets/image/Logo-Seresa-Tech.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./src/assets/image/favicon.png"
+    }
+  }
+}
